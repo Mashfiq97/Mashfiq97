@@ -8,8 +8,6 @@
 - ⚡ Fun fact: ... I can sleep in anywhere at anytime.
 - 🥅 2020 Goals: Trying to learn JavaScript.
 
-<p>  <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="visitor badge"/> </p>
-
 
 ### Languages and Tools:
 
