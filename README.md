@@ -8,6 +8,8 @@
 - ⚡ Fun fact: ... I can sleep in anywhere at anytime.
 - 🥅 2020 Goals: Trying to learn JavaScript.
 
+<p>  <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="visitor badge"/> </p>
+
 
 ### Languages and Tools:
 
@@ -16,7 +18,5 @@
 <img align="left" alt="SQL" width="34px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 
 <br />
-
- <img src="https://visitor-badge.glitch.me/badge?page_id=page.id" alt="visitor badge"/>
 
 <br />
