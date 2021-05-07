@@ -31,7 +31,7 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-[![Mashfiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mashfiq97)](https://github.com/anuraghazra/github-readme-stats)
+[![Mashfiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mashfiq Shahriar Zaman)]
 
 
 </details>
