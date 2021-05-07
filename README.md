@@ -24,8 +24,8 @@
 ⚡⚡⚡⚡ Python ALSO ⚡⚡⚡⚡
 
 <br />
-<img width="100px" src="https://arasatasaygin.github.io/openlogos/logos/clique.jpg" width="170" height="170">
-<img  width="100px" src="https://arasatasaygin.github.io/openlogos/logos/steps.jpg" width="170" height="170">
+<img  width="170" height="170" src="https://arasatasaygin.github.io/openlogos/logos/clique.jpg" width="170" height="170">
+<img   width="170" height="170" src="https://arasatasaygin.github.io/openlogos/logos/steps.jpg" width="170" height="170">
 <br />
 
 
