@@ -25,7 +25,7 @@
 
 <br />
 <img align="left" width="100px" src="https://arasatasaygin.github.io/openlogos/logos/clique.jpg" width="170" height="170">
-<img align="left" width="100px" src="https://arasatasaygin.github.io/openlogos/logos/steps.jpg" width="170" height="170">
+<img align="right" width="100px" src="https://arasatasaygin.github.io/openlogos/logos/steps.jpg" width="170" height="170">
 <br />
 
 
