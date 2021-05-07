@@ -1,6 +1,6 @@
 ### Hello, there! Here are the things I am currently working on! 👋
 
-- 🔭 I’m currently working on ... My thesis based on Emotion Recognition using Deep Learning.
+- 🔭 I’m currently working on ... My thesis which is on Emotion Recognition using Deep Learning based approaches.
 - 🌱 I’m currently learning ... Structured Query Language(SQL). 
 - 👯 I’m looking to collaborate on ... Computer Vision.
 - 💬 Ask me about ... Anything
