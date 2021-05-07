@@ -6,7 +6,7 @@
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... mashfiqzaman1997@gmail.com
 - ⚡ Fun fact: ... I can sleep in anywhere at anytime.
-- 🥅 2020 Goals: Trying to learn JavaScript.
+- 🥅 2021 Goals: Trying to learn Deep Learning.
 
 
 ### Languages and Tools:
