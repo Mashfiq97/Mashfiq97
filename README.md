@@ -33,7 +33,7 @@
 <p>
 <img  src="https://arasatasaygin.github.io/openlogos/logos/gate-keeper.jpg" width="170" height="170">
 <img  src="https://arasatasaygin.github.io/openlogos/logos/quick-fingers.jpg" width="170" height="170">
-<<img src="https://arasatasaygin.github.io/openlogos/logos/watch-bob.jpg" width="170" height="170">>
+<img src="https://arasatasaygin.github.io/openlogos/logos/watch-bob.jpg" width="170" height="170">
 </p>
 <br />
 
