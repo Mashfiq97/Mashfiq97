@@ -24,9 +24,14 @@
 ⚡⚡⚡⚡ Python ALSO ⚡⚡⚡⚡
 
 <br />
-
 [<img src="https://arasatasaygin.github.io/openlogos/logos/clique.jpg" width="170" height="170">](https://github.com/arasatasaygin/openlogos/issues/10)
 [<img src="https://arasatasaygin.github.io/openlogos/logos/steps.jpg" width="170" height="170">](https://github.com/arasatasaygin/openlogos/issues/17)
-
-
 <br />
+
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
+</details>
