@@ -25,15 +25,15 @@
 
 <br />
 <p>
-<img align="left" width="170" height="170" src="https://arasatasaygin.github.io/openlogos/logos/clique.jpg" width="170" height="170">
-<img align="left" width="170" height="170" src="https://arasatasaygin.github.io/openlogos/logos/steps.jpg" width="170" height="170">
-<img align="left" src="https://arasatasaygin.github.io/openlogos/logos/morning.jpg" width="170" height="170">
+<img  width="170" height="170" src="https://arasatasaygin.github.io/openlogos/logos/clique.jpg" width="170" height="170">
+<img  width="170" height="170" src="https://arasatasaygin.github.io/openlogos/logos/steps.jpg" width="170" height="170">
+<img  src="https://arasatasaygin.github.io/openlogos/logos/morning.jpg" width="170" height="170">
 </p>
 
 <p>
-<img align="left" src="https://arasatasaygin.github.io/openlogos/logos/gate-keeper.jpg" width="170" height="170">
-<img align="left" src="https://arasatasaygin.github.io/openlogos/logos/quick-fingers.jpg" width="170" height="170">
-<img align="left"  src="https://arasatasaygin.github.io/openlogos/logos/clique.jpg" width="170" height="170">
+<img  src="https://arasatasaygin.github.io/openlogos/logos/gate-keeper.jpg" width="170" height="170">
+<img  src="https://arasatasaygin.github.io/openlogos/logos/quick-fingers.jpg" width="170" height="170">
+<<img src="https://arasatasaygin.github.io/openlogos/logos/watch-bob.jpg" width="170" height="170">>
 </p>
 <br />
 
