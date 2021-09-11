@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on ... Computer Vision.
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... mashfiqzaman1997@gmail.com
-- ⚡ Fun fact: ... I can sleep in anywhere at anytime.
 - 🥅 2021 Goals: Trying to learn Deep Learning.
 
 
