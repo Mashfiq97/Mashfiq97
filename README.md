@@ -1,11 +1,9 @@
 ### Hello, there! Here are the things I am currently working on! 👋
 
-- 🔭 I’m currently working on ... My thesis which is on Emotion Recognition using Deep Learning based approaches.
-- 🌱 I’m currently learning ... Structured Query Language(SQL). 
-- 👯 I’m looking to collaborate on ... Computer Vision.
+- 🔭 I’m an MSc Student at the University of Alberta.
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... mashfiqzaman1997@gmail.com
-- 🥅 2022 Goals: Trying to learn Deep Learning.
+- 🥅 2023 Goals: Trying to learn Deep Learning
 
 
 ### Languages and Tools:
