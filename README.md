@@ -1,10 +1,8 @@
 ### Hello, there! Here are the things I am currently working on! 👋
 
-- 🔭 I’m an MSc Student at the University of Alberta.
+- 🔭 I’m an MSc student at the University of Alberta.
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... mashfiqzaman1997@gmail.com
-- 🥅 2023 Goals: Trying to learn Deep Learning
-
+- 📫 How to reach me: ... mashfiq.zaman50@gmail.com
 
 ### Languages and Tools:
 
